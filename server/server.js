@@ -14,19 +14,18 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // ── CORS ──────────────────────────────────────────────────────────────────────
-// In production the frontend is served from Netlify.
-// Set FRONTEND_URL in the Render environment dashboard to your Netlify site URL.
-// e.g.  FRONTEND_URL=https://college-dhundo.netlify.app
-const allowedOrigins = [
-  'http://localhost:5173',  // Vite dev server
-  'http://localhost:3000',
-  process.env.FRONTEND_URL, // Production Netlify URL (set in Render env vars)
-].filter(Boolean);
-
+// Allows localhost for development and any Netlify deployment for production.
+// Optionally set FRONTEND_URL in Render env vars to lock down to a specific domain.
 app.use(cors({
   origin: (origin, callback) => {
-    // Allow requests with no Origin header (e.g. curl, Postman, server-to-server)
-    if (!origin || allowedOrigins.includes(origin)) {
+    // Allow requests with no Origin header (curl, Postman, server-to-server)
+    if (!origin) return callback(null, true);
+
+    const isLocalhost = origin.startsWith('http://localhost') || origin.startsWith('http://127.0.0.1');
+    const isNetlify = origin.endsWith('.netlify.app');
+    const isCustomDomain = process.env.FRONTEND_URL && origin === process.env.FRONTEND_URL;
+
+    if (isLocalhost || isNetlify || isCustomDomain) {
       callback(null, true);
     } else {
       callback(new Error(`CORS blocked for origin: ${origin}`));

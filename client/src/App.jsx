@@ -209,7 +209,9 @@ function App() {
         queryParams.append("course", course);
       });
 
-      const baseUrl = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:5000' : '');
+      // VITE_API_URL must be set in Netlify env vars to the Render backend URL
+      // Falls back to localhost in local dev
+      const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
       const response = await fetch(
         `${baseUrl}/api/colleges?${queryParams.toString()}`,
       );
