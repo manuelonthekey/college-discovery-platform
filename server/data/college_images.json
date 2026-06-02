@@ -1,0 +1,668 @@
+[
+  {
+    "id": "c1",
+    "name": "IIT Bombay",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Bombay_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Bombay_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Night_view_of_campus_buildings_at_IIT_Bombay.jpg" }
+    ]
+  },
+  {
+    "id": "c2",
+    "name": "IIT Delhi",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Delhi_Wordmark_logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Iit_delhi_campus_garden.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Delhi_campus_wide_view.jpg" }
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "IIT Madras",
+    "imageAssets": [
+      { "type": "logo", "url": "https://commons.wikimedia.org/wiki/File:IIT_Madras_Logo_(Black_and_White).svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Madras_campus_main_gate.jpg" },
+      { "type": "campus", "url": "https://en.wikipedia.org/wiki/File:IIT_Madras_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c4",
+    "name": "IIT Kanpur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Kanpur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Kanpur.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Kanpur_MainBuilding.jpg" }
+    ]
+  },
+  {
+    "id": "c5",
+    "name": "IIT Kharagpur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Kharagpur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Kharagpur_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_KGP_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c6",
+    "name": "IIT Roorkee",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Roorkee_logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Roorkee_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Thomson_Building_IIT_Roorkee.jpg" }
+    ]
+  },
+  {
+    "id": "c7",
+    "name": "IIT Guwahati",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Guwahati_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Guwahati_Academic_Complex.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Guwahati_Lake.jpg" }
+    ]
+  },
+  {
+    "id": "c8",
+    "name": "IIT Hyderabad",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Hyderabad_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Hyderabad_Academic_Block.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IITH_Hostels.jpg" }
+    ]
+  },
+  {
+    "id": "c9",
+    "name": "IIT BHU",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_BHU_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_BHU_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_BHU_Campus_View.jpg" }
+    ]
+  },
+  {
+    "id": "c10",
+    "name": "IIT Indore",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIT_Indore_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIT_Indore_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IITI_Academic_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c11",
+    "name": "NIT Trichy",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Trichy_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITT_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Trichy_Clock_Tower.jpg" }
+    ]
+  },
+  {
+    "id": "c12",
+    "name": "NIT Surathkal",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NITK_Surathkal_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITK_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITK_Beach.jpg" }
+    ]
+  },
+  {
+    "id": "c13",
+    "name": "NIT Warangal",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Warangal_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Warangal_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITW_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c14",
+    "name": "NIT Calicut",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Calicut_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITC_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITC_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c15",
+    "name": "NIT Rourkela",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Rourkela_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Rourkela_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITR_Student_Activity_Centre.jpg" }
+    ]
+  },
+  {
+    "id": "c16",
+    "name": "IIIT Hyderabad",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIIT_Hyderabad_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIIT_Hyderabad_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIITH_Vindhya.jpg" }
+    ]
+  },
+  {
+    "id": "c17",
+    "name": "IIIT Bangalore",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIIT_Bangalore_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIIT_Bangalore_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIITB_Innovation_Centre.jpg" }
+    ]
+  },
+  {
+    "id": "c18",
+    "name": "BITS Pilani",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:BITS_Pilani_logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Pilani_Clock_Tower.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Pilani_Campus_View.jpg" }
+    ]
+  },
+  {
+    "id": "c19",
+    "name": "BITS Goa",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:BITS_Pilani_logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Goa_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Goa_Auditorium.jpg" }
+    ]
+  },
+  {
+    "id": "c20",
+    "name": "BITS Hyderabad",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:BITS_Pilani_logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Hyderabad_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BITS_Hyderabad_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c21",
+    "name": "DTU",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Delhi_Technological_University_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:DTU_Main_Bawana_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:DTU_OAT.jpg" }
+    ]
+  },
+  {
+    "id": "c22",
+    "name": "NSUT",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Netaji_Subhas_University_of_Technology_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NSUT_Campus_View.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NSIT_Admin_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c23",
+    "name": "Jadavpur University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Jadavpur_University_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Jadavpur_University_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:JU_Aurobindo_Bhavan.jpg" }
+    ]
+  },
+  {
+    "id": "c24",
+    "name": "COEP",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:College_of_Engineering,_Pune_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:COEP_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:COEP_Boat_Club.jpg" }
+    ]
+  },
+  {
+    "id": "c25",
+    "name": "PEC",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Punjab_Engineering_College_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:PEC_Chandigarh_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:PEC_Auditorium.jpg" }
+    ]
+  },
+  {
+    "id": "c26",
+    "name": "DAIICT",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:DA-IICT_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:DAIICT_CEP_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:DAIICT_Campus_Path.jpg" }
+    ]
+  },
+  {
+    "id": "c27",
+    "name": "LNMIIT",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:LNMIIT_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:LNMIIT_Academic_Area.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:LNMIIT_Jaipur_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c28",
+    "name": "Thapar Institute of Engineering and Technology",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Thapar_Institute_of_Engineering_and_Technology_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Thapar_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Thapar_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c29",
+    "name": "VIT Vellore",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:VIT_Vellore_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VIT_Vellore_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VIT_Library_Vellore.jpg" }
+    ]
+  },
+  {
+    "id": "c30",
+    "name": "SRM Institute of Science and Technology",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:SRM_University_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SRM_University_Main_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SRM_Tech_Park.jpg" }
+    ]
+  },
+  {
+    "id": "c31",
+    "name": "Manipal Institute of Technology",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Manipal_University_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MIT_Manipal_Innovation_Centre.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MIT_Manipal_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c32",
+    "name": "KIIT",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Kalinga_Institute_of_Industrial_Technology_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:KIIT_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:KIIT_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c33",
+    "name": "Amity University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Amity_University_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Amity_University_Noida_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Amity_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c34",
+    "name": "Shiv Nadar University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Shiv_Nadar_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SNU_Campus_Delhi_NCR.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SNU_Library_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c35",
+    "name": "UPES",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:UPES_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:UPES_Dehradun_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:UPES_Energy_Acres.jpg" }
+    ]
+  },
+  {
+    "id": "c36",
+    "name": "MIT World Peace University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:MIT_World_Peace_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MIT_WPU_Pune_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MIT_WPU_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c37",
+    "name": "RV College of Engineering",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:RV_College_of_Engineering_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:RVCE_Campus_Bangalore.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:RVCE_Main_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c38",
+    "name": "BMS College of Engineering",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:BMS_College_of_Engineering_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BMSCE_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:BMSCE_Campus_View.jpg" }
+    ]
+  },
+  {
+    "id": "c39",
+    "name": "MS Ramaiah Institute of Technology",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Ramaiah_Institute_of_Technology_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MSRIT_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MSRIT_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c40",
+    "name": "Nirma University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Nirma_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Nirma_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Nirma_Institute_of_Technology.jpg" }
+    ]
+  },
+  {
+    "id": "c41",
+    "name": "PES University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:PES_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:PES_University_Ring_Road_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:PESU_Golden_Jubilee_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c42",
+    "name": "Chandigarh University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Chandigarh_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Chandigarh_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:CU_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c43",
+    "name": "Lovely Professional University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:LPU_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:LPU_Campus_View.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:LPU_University_Mall.jpg" }
+    ]
+  },
+  {
+    "id": "c44",
+    "name": "SSN College of Engineering",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:SSN_College_of_Engineering_Logo.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SSNCE_Clock_Tower.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SSN_Campus_Chennai.jpg" }
+    ]
+  },
+  {
+    "id": "c45",
+    "name": "IIIT Delhi",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIIT_Delhi_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIIT_Delhi_R%26D_Block.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIITD_Campus_Okhla.jpg" }
+    ]
+  },
+  {
+    "id": "c46",
+    "name": "IIIT Lucknow",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:IIIT_Lucknow_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIIT_Lucknow_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIITL_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c47",
+    "name": "ABV-IIITM Gwalior",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:ABV-IIITM_Gwalior_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:IIITM_Gwalior_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:ABV_IIITM_Academic_Complex.jpg" }
+    ]
+  },
+  {
+    "id": "c48",
+    "name": "NIT Jalandhar",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Dr._B._R._Ambedkar_National_Institute_of_Technology_Jalandhar_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Jalandhar_Main_Gate.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITJ_Campus_View.jpg" }
+    ]
+  },
+  {
+    "id": "c49",
+    "name": "NIT Kurukshetra",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Kurukshetra_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Kurukshetra_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Kurukshetra_Senate_Hall.jpg" }
+    ]
+  },
+  {
+    "id": "c50",
+    "name": "NIT Durgapur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Durgapur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Durgapur_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Durgapur_Campus_Road.jpg" }
+    ]
+  },
+  {
+    "id": "c51",
+    "name": "NIT Silchar",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Silchar_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Silchar_Lakes.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Silchar_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c52",
+    "name": "NIT Hamirpur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Hamirpur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Hamirpur_Campus_Aerial.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NITH_Auditorium.jpg" }
+    ]
+  },
+  {
+    "id": "c53",
+    "name": "NIT Raipur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:NIT_Raipur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Raipur_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NIT_Raipur_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c54",
+    "name": "VNIT Nagpur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:VNIT_Nagpur_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VNIT_Nagpur_Main_Gate.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VNIT_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c55",
+    "name": "Institute of Chemical Technology Mumbai",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:ICT_Mumbai_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:ICT_Mumbai_Main_Building.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:ICT_Mumbai_Campus.jpg" }
+    ]
+  },
+  {
+    "id": "c56",
+    "name": "Jamia Hamdard",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Jamia_Hamdard_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Jamia_Hamdard_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Jamia_Hamdard_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c57",
+    "name": "SASTRA Deemed University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:SASTRA_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SASTRA_Campus_Thanjavur.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SASTRA_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c58",
+    "name": "KLE Technological University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:KLE_Technological_University_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:KLE_Tech_Hubli_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:KLE_Tech_Main_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c59",
+    "name": "SRM University AP",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:SRM_University_AP_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SRM_AP_Amaravati_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SRM_AP_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c60",
+    "name": "VIT AP University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:VIT-AP_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VIT_AP_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:VIT_AP_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c61",
+    "name": "Graphic Era University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Graphic_Era_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Graphic_Era_Dehradun_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Graphic_Era_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c62",
+    "name": "Bennett University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Bennett_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Bennett_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Bennett_University_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c63",
+    "name": "Galgotias University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Galgotias_University_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Galgotias_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Galgotias_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c64",
+    "name": "NMIMS MPSTME",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:SVKM%27s_NMIMS_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:MPSTME_Mumbai_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:NMIMS_Mumbai_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c65",
+    "name": "JECRC University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:JECRC_University_logo.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:JECRC_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:JECRC_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c66",
+    "name": "C. V. Raman Global University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:C._V._Raman_Global_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:CV_Raman_Global_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:CV_Raman_Bhubaneswar_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c67",
+    "name": "Shiv Nadar University Chennai",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Shiv_Nadar_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SNU_Chennai_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SNU_Chennai_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c68",
+    "name": "Alliance University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Alliance_University_logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Alliance_University_Central_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Alliance_University_Library.jpg" }
+    ]
+  },
+  {
+    "id": "c69",
+    "name": "REVA University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:REVA_University_Logo.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:REVA_University_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:REVA_Main_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c70",
+    "name": "RCOEM Nagpur",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Shri_Ramdeobaba_College_of_Engineering_and_Management_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:RCOEM_Nagpur_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:RCOEM_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c71",
+    "name": "Symbiosis Institute of Technology Pune",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Symbiosis_International_University_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SIT_Pune_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:SIT_Pune_Academic_Block.jpg" }
+    ]
+  },
+  {
+    "id": "c72",
+    "name": "Walchand College of Engineering",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Walchand_College_of_Engineering_Sangli_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:Walchand_College_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:WCE_Sangli_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c73",
+    "name": "Ajay Kumar Garg Engineering College",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:AKGEC_Logo.png" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:AKGEC_Ghaziabad_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:AKGEC_Main_Building.jpg" }
+    ]
+  },
+  {
+    "id": "c74",
+    "name": "Harcourt Butler Technical University",
+    "imageAssets": [
+      { "type": "logo", "url": "https://en.wikipedia.org/wiki/File:Harcourt_Butler_Technical_University_Logo.svg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:HBTU_Kanpur_Campus.jpg" },
+      { "type": "campus", "url": "https://commons.wikimedia.org/wiki/File:HBTU_Main_Building.jpg" }
+    ]
+  }
+]

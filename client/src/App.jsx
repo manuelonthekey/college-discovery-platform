@@ -14,6 +14,8 @@ import {
   Globe,
   TrendingUp,
   Building,
+  ChevronLeft,
+  ChevronRight,
 } from "lucide-react";
 import "./App.css";
 
@@ -25,6 +27,131 @@ const emptyFilters = {
 };
 
 const themeStorageKey = "college-dhundo-theme";
+
+const ImageCarousel = ({ imageAssets, isModal, college, compareList, toggleCompare }) => {
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  // If there are no image assets at all, fall back to a generic container (which shouldn't happen now since we seed fallbacks)
+  if (!imageAssets || imageAssets.length === 0) {
+    return (
+      <div className={isModal ? 'modal-header-image' : 'card-image-placeholder'}>
+        <div className={isModal ? 'modal-rating-badge' : 'card-rating'}>
+          <Star size={isModal ? 16 : 14} fill="#eab308" color="#eab308" />
+          <span>{college?.rating?.toFixed(1) || "N/A"}{isModal ? ' / 5.0' : ''}</span>
+        </div>
+        {!isModal && compareList && toggleCompare && (
+          <button 
+            className={`card-compare-btn ${compareList.some(c => c._id === college._id) ? 'active' : ''}`}
+            onClick={(e) => { e.stopPropagation(); toggleCompare(college); }}
+          >
+            {compareList.some(c => c._id === college._id) ? '✓ Selected' : '+ Compare'}
+          </button>
+        )}
+      </div>
+    );
+  }
+
+  // Prepend virtual logo if no real logo exists
+  const hasLogo = imageAssets.some(a => a.type === 'logo');
+  const displayAssets = [...imageAssets];
+  if (!hasLogo) {
+    displayAssets.unshift({ type: 'virtual-logo', url: '' });
+  }
+
+  const handleNext = (e) => {
+    e.stopPropagation();
+    setCurrentIndex((prev) => (prev + 1) % displayAssets.length);
+  };
+
+  const handlePrev = (e) => {
+    e.stopPropagation();
+    setCurrentIndex((prev) => (prev - 1 + displayAssets.length) % displayAssets.length);
+  };
+
+  return (
+    <div className={isModal ? 'modal-header-image has-image' : 'card-image-placeholder has-image'} style={{ position: 'relative' }}>
+      <div className="image-carousel-container" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}>
+        <div 
+          className="image-carousel-track" 
+          style={{ 
+            display: 'flex', width: '100%', height: '100%', 
+            transform: `translateX(-${currentIndex * 100}%)`, 
+            transition: 'transform 0.4s ease-in-out' 
+          }}
+        >
+          {displayAssets.map((asset, index) => {
+            if (asset.type === 'virtual-logo') {
+              return (
+                <div
+                  key={index}
+                  className="carousel-slide virtual-logo"
+                  style={{
+                    flex: '0 0 100%',
+                    height: '100%',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    background: 'linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)',
+                    color: '#ffffff',
+                    padding: '20px',
+                    textAlign: 'center'
+                  }}
+                >
+                  <GraduationCap size={44} style={{ marginBottom: '8px', filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.15))' }} />
+                  <div style={{ fontSize: '20px', fontWeight: '800', letterSpacing: '1px', textShadow: '0 2px 4px rgba(0,0,0,0.2)' }}>
+                    {college?.shortName || college?.name}
+                  </div>
+                  {college?.established && (
+                    <div style={{ fontSize: '11px', opacity: 0.85, marginTop: '4px', fontWeight: '600' }}>
+                      ESTD {college.established}
+                    </div>
+                  )}
+                </div>
+              );
+            }
+            return (
+              <div
+                key={index}
+                className={`carousel-slide ${asset.type}`}
+                style={{ 
+                  backgroundImage: `url(${asset.url})`, 
+                  flex: '0 0 100%', height: '100%',
+                  backgroundSize: asset.type === 'logo' ? 'contain' : 'cover',
+                  backgroundPosition: 'center', backgroundRepeat: 'no-repeat',
+                  backgroundColor: asset.type === 'logo' ? '#ffffff' : 'transparent'
+                }}
+              />
+            );
+          })}
+        </div>
+        {displayAssets.length > 1 && (
+          <>
+            <button className="carousel-nav-btn left" onClick={handlePrev}>
+              <ChevronLeft size={20} />
+            </button>
+            <button className="carousel-nav-btn right" onClick={handleNext}>
+              <ChevronRight size={20} />
+            </button>
+          </>
+        )}
+      </div>
+
+      <div className={isModal ? 'modal-rating-badge' : 'card-rating'}>
+        <Star size={isModal ? 16 : 14} fill="#eab308" color="#eab308" />
+        <span>{college?.rating?.toFixed(1) || "N/A"}{isModal ? ' / 5.0' : ''}</span>
+      </div>
+      {!isModal && compareList && toggleCompare && (
+        <button 
+          className={`card-compare-btn ${compareList.some(c => c._id === college._id) ? 'active' : ''}`}
+          onClick={(e) => { e.stopPropagation(); toggleCompare(college); }}
+        >
+          {compareList.some(c => c._id === college._id) ? '✓ Selected' : '+ Compare'}
+        </button>
+      )}
+    </div>
+  );
+};
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(() => {
@@ -454,23 +581,13 @@ function App() {
                   onClick={() => setSelectedCollege(college)} 
                   style={{ cursor: "pointer" }} 
                 >
-                  <div className="card-image-placeholder">
-                    <div className="card-rating">
-                      <Star size={14} fill="#eab308" color="#eab308" />
-                      <span>{college.rating?.toFixed(1) || "N/A"}</span>
-                    </div>
-
-                    {/* 🌟 NEW: The Compare Toggle Button Overlay */}
-                    <button 
-                      className={`card-compare-btn ${compareList.some(c => c._id === college._id) ? 'active' : ''}`}
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        toggleCompare(college);
-                      }}
-                    >
-                      {compareList.some(c => c._id === college._id) ? '✓ Selected' : '+ Compare'}
-                    </button>
-                  </div>
+                  <ImageCarousel 
+                    imageAssets={college.imageAssets} 
+                    isModal={false} 
+                    college={college} 
+                    compareList={compareList} 
+                    toggleCompare={toggleCompare} 
+                  />
 
                   <div className="card-content">
                     <h3>{college.name}</h3>
@@ -527,12 +644,11 @@ function App() {
                   <X size={24} />
                 </button>
 
-                <div className="modal-header-image">
-                  <div className="modal-rating-badge">
-                    <Star size={16} fill="#eab308" color="#eab308" />
-                    <span>{selectedCollege.rating?.toFixed(1) || "N/A"} / 5.0</span>
-                  </div>
-                </div>
+                <ImageCarousel 
+                  imageAssets={selectedCollege.imageAssets} 
+                  isModal={true} 
+                  college={selectedCollege} 
+                />
 
                 <div className="modal-body">
                   <h2>{selectedCollege.name}</h2>
@@ -577,15 +693,15 @@ function App() {
                       <div className="stats-box outline">
                         <div className="stat-item">
                           <span>Tuition Fee</span>
-                          <strong>₹{selectedCollege.fees?.tuition?.toLocaleString("en-IN")}</strong>
+                          <strong>₹{selectedCollege.fees?.tuitionFeePerYear?.toLocaleString("en-IN") || "N/A"}</strong>
                         </div>
                         <div className="stat-item">
                           <span>Hostel & Mess</span>
-                          <strong>₹{selectedCollege.fees?.hostel?.toLocaleString("en-IN")}</strong>
+                          <strong>₹{selectedCollege.fees?.hostelFeePerYear?.toLocaleString("en-IN") || "N/A"}</strong>
                         </div>
                         <div className="stat-item total">
                           <span>Total Estimated</span>
-                          <strong>₹{selectedCollege.fees?.totalEstimatedFeesPerYear?.toLocaleString("en-IN")}</strong>
+                          <strong>₹{selectedCollege.fees?.totalEstimatedFeesPerYear?.toLocaleString("en-IN") || "N/A"}</strong>
                         </div>
                       </div>
                     </div>
@@ -709,6 +825,16 @@ function App() {
                   {compareList.map(college => (
                     <div key={college._id} className="matrix-value">
                       ⭐ {college.rating?.toFixed(1) || "N/A"} / 5
+                    </div>
+                  ))}
+
+                  {/* Row 7: Programs Offered */}
+                  <div className="matrix-label">Programs Offered</div>
+                  {compareList.map(college => (
+                    <div key={college._id} className="matrix-value tags-cell">
+                      {college.featuredCourses?.map((course, idx) => (
+                        <span key={idx} className="matrix-pill">{course}</span>
+                      )) || "N/A"}
                     </div>
                   ))}
 

@@ -1,0 +1,3776 @@
+[
+  {
+    "id": "c1",
+    "name": "IIT Bombay",
+    "shortName": "IIT Bombay",
+    "established": 2005,
+    "type": "Government",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 1,
+    "rating": 4.8,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Mumbai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 553986,
+      "hostelFeePerYear": 80735,
+      "otherChargesPerYear": 37024,
+      "totalEstimatedFeesPerYear": 465791,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.2,
+      "averagePackage": 1915800,
+      "medianPackage": 525083,
+      "highestPackage": 3490858,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.1,
+    "campusSizeAcres": 206,
+    "studentIntake": 5310,
+    "image": "",
+    "website": "https://www.iitb.ac.in"
+  },
+  {
+    "id": "c2",
+    "name": "IIT Delhi",
+    "shortName": "IIT Delhi",
+    "established": 1966,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": 2,
+    "rating": 4.6,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Main Campus, New Delhi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 535873,
+      "hostelFeePerYear": 47487,
+      "otherChargesPerYear": 16190,
+      "totalEstimatedFeesPerYear": 231055,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 90.3,
+      "averagePackage": 2488081,
+      "medianPackage": 918818,
+      "highestPackage": 4603616,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.2,
+    "campusSizeAcres": 1198,
+    "studentIntake": 6658,
+    "image": "",
+    "website": "https://home.iitd.ac.in"
+  },
+  {
+    "id": "c3",
+    "name": "IIT Madras",
+    "shortName": "IIT Madras",
+    "established": 2008,
+    "type": "Deemed University",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 3,
+    "rating": 4.1,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Chennai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 469476,
+      "hostelFeePerYear": 47843,
+      "otherChargesPerYear": 37384,
+      "totalEstimatedFeesPerYear": 662685,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 93.7,
+      "averagePackage": 1556147,
+      "medianPackage": 1393244,
+      "highestPackage": 8731906,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.1,
+    "campusSizeAcres": 779,
+    "studentIntake": 7769,
+    "image": "",
+    "website": "https://www.iitm.ac.in"
+  },
+  {
+    "id": "c4",
+    "name": "IIT Kanpur",
+    "shortName": "IIT Kanpur",
+    "established": 1997,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": 4,
+    "rating": 4.6,
+    "location": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Kanpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 360744,
+      "hostelFeePerYear": 85383,
+      "otherChargesPerYear": 15184,
+      "totalEstimatedFeesPerYear": 654333,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 79.2,
+      "averagePackage": 1164678,
+      "medianPackage": 806823,
+      "highestPackage": 3838572,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.0,
+    "campusSizeAcres": 364,
+    "studentIntake": 7979,
+    "image": "",
+    "website": "https://www.iitk.ac.in"
+  },
+  {
+    "id": "c5",
+    "name": "IIT Kharagpur",
+    "shortName": "IIT Kharagpur",
+    "established": 2001,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 5,
+    "rating": 4.9,
+    "location": {
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "country": "India",
+      "address": "Main Campus, Kharagpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 435851,
+      "hostelFeePerYear": 66736,
+      "otherChargesPerYear": 34457,
+      "totalEstimatedFeesPerYear": 296021,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 97.1,
+      "averagePackage": 937467,
+      "medianPackage": 1615409,
+      "highestPackage": 3601658,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.1,
+    "campusSizeAcres": 861,
+    "studentIntake": 7136,
+    "image": "",
+    "website": "https://www.iitkgp.ac.in"
+  },
+  {
+    "id": "c6",
+    "name": "IIT Roorkee",
+    "shortName": "IIT Roorkee",
+    "established": 2014,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": 6,
+    "rating": 4.8,
+    "location": {
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "country": "India",
+      "address": "Main Campus, Roorkee"
+    },
+    "fees": {
+      "tuitionFeePerYear": 208813,
+      "hostelFeePerYear": 30547,
+      "otherChargesPerYear": 16255,
+      "totalEstimatedFeesPerYear": 376231,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.6,
+      "averagePackage": 2395734,
+      "medianPackage": 1426763,
+      "highestPackage": 14782662,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.4,
+    "campusSizeAcres": 665,
+    "studentIntake": 3763,
+    "image": "",
+    "website": "https://www.iitr.ac.in"
+  },
+  {
+    "id": "c7",
+    "name": "IIT Guwahati",
+    "shortName": "IIT Guwahati",
+    "established": 1942,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": 7,
+    "rating": 4.3,
+    "location": {
+      "city": "Guwahati",
+      "state": "Assam",
+      "country": "India",
+      "address": "Main Campus, Guwahati"
+    },
+    "fees": {
+      "tuitionFeePerYear": 378937,
+      "hostelFeePerYear": 37823,
+      "otherChargesPerYear": 14235,
+      "totalEstimatedFeesPerYear": 475351,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 89.5,
+      "averagePackage": 1092137,
+      "medianPackage": 1529679,
+      "highestPackage": 5646653,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.8,
+    "campusSizeAcres": 940,
+    "studentIntake": 3708,
+    "image": "",
+    "website": "https://www.iitg.ac.in"
+  },
+  {
+    "id": "c8",
+    "name": "IIT Hyderabad",
+    "shortName": "IIT Hyderabad",
+    "established": 1948,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": 8,
+    "rating": 4.2,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Main Campus, Hyderabad"
+    },
+    "fees": {
+      "tuitionFeePerYear": 249690,
+      "hostelFeePerYear": 26688,
+      "otherChargesPerYear": 15015,
+      "totalEstimatedFeesPerYear": 515476,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 95.9,
+      "averagePackage": 1241256,
+      "medianPackage": 1163150,
+      "highestPackage": 15473234,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.3,
+    "campusSizeAcres": 1132,
+    "studentIntake": 6553,
+    "image": "",
+    "website": "https://www.iith.ac.in"
+  },
+  {
+    "id": "c9",
+    "name": "IIT BHU",
+    "shortName": "IIT BHU",
+    "established": 1951,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": 9,
+    "rating": 4.8,
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Varanasi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 129838,
+      "hostelFeePerYear": 30709,
+      "otherChargesPerYear": 18371,
+      "totalEstimatedFeesPerYear": 229735,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.3,
+      "averagePackage": 1481021,
+      "medianPackage": 791557,
+      "highestPackage": 7840482,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.0,
+    "campusSizeAcres": 401,
+    "studentIntake": 3554,
+    "image": "",
+    "website": "https://www.iitbhu.ac.in"
+  },
+  {
+    "id": "c10",
+    "name": "IIT Indore",
+    "shortName": "IIT Indore",
+    "established": 1961,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": 10,
+    "rating": 4.4,
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "address": "Main Campus, Indore"
+    },
+    "fees": {
+      "tuitionFeePerYear": 154118,
+      "hostelFeePerYear": 82290,
+      "otherChargesPerYear": 26613,
+      "totalEstimatedFeesPerYear": 526862,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 75.4,
+      "averagePackage": 1685947,
+      "medianPackage": 1183497,
+      "highestPackage": 17001293,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.5,
+    "campusSizeAcres": 661,
+    "studentIntake": 6472,
+    "image": "",
+    "website": "https://www.iiti.ac.in"
+  },
+  {
+    "id": "c11",
+    "name": "NIT Trichy",
+    "shortName": "NIT Trichy",
+    "established": 1993,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": 11,
+    "rating": 4.1,
+    "location": {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Tiruchirappalli"
+    },
+    "fees": {
+      "tuitionFeePerYear": 307871,
+      "hostelFeePerYear": 27165,
+      "otherChargesPerYear": 36645,
+      "totalEstimatedFeesPerYear": 603525,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 82.9,
+      "averagePackage": 1101293,
+      "medianPackage": 1101380,
+      "highestPackage": 13115186,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.1,
+    "campusSizeAcres": 244,
+    "studentIntake": 6515,
+    "image": "",
+    "website": "https://www.nitt.edu"
+  },
+  {
+    "id": "c12",
+    "name": "NIT Surathkal",
+    "shortName": "NIT Surathkal",
+    "established": 1962,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": 12,
+    "rating": 4.7,
+    "location": {
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Mangalore"
+    },
+    "fees": {
+      "tuitionFeePerYear": 436074,
+      "hostelFeePerYear": 55355,
+      "otherChargesPerYear": 18829,
+      "totalEstimatedFeesPerYear": 436899,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 78.4,
+      "averagePackage": 2323837,
+      "medianPackage": 1733905,
+      "highestPackage": 4611609,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.6,
+    "campusSizeAcres": 775,
+    "studentIntake": 7523,
+    "image": "",
+    "website": "https://www.nitk.ac.in"
+  },
+  {
+    "id": "c13",
+    "name": "NIT Warangal",
+    "shortName": "NIT Warangal",
+    "established": 1987,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 13,
+    "rating": 4.7,
+    "location": {
+      "city": "Warangal",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Main Campus, Warangal"
+    },
+    "fees": {
+      "tuitionFeePerYear": 209125,
+      "hostelFeePerYear": 25297,
+      "otherChargesPerYear": 14158,
+      "totalEstimatedFeesPerYear": 621254,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 76.0,
+      "averagePackage": 1537270,
+      "medianPackage": 1208613,
+      "highestPackage": 10778180,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.6,
+    "campusSizeAcres": 360,
+    "studentIntake": 6831,
+    "image": "",
+    "website": "https://www.nitw.ac.in"
+  },
+  {
+    "id": "c14",
+    "name": "NIT Calicut",
+    "shortName": "NIT Calicut",
+    "established": 1955,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 14,
+    "rating": 4.4,
+    "location": {
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "country": "India",
+      "address": "Main Campus, Kozhikode"
+    },
+    "fees": {
+      "tuitionFeePerYear": 278144,
+      "hostelFeePerYear": 21913,
+      "otherChargesPerYear": 10890,
+      "totalEstimatedFeesPerYear": 604021,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 88.3,
+      "averagePackage": 1586145,
+      "medianPackage": 736433,
+      "highestPackage": 15433220,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 493,
+    "studentIntake": 561,
+    "image": "",
+    "website": "https://nitc.ac.in"
+  },
+  {
+    "id": "c15",
+    "name": "NIT Rourkela",
+    "shortName": "NIT Rourkela",
+    "established": 2004,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": 15,
+    "rating": 4.2,
+    "location": {
+      "city": "Rourkela",
+      "state": "Odisha",
+      "country": "India",
+      "address": "Main Campus, Rourkela"
+    },
+    "fees": {
+      "tuitionFeePerYear": 151758,
+      "hostelFeePerYear": 37135,
+      "otherChargesPerYear": 20342,
+      "totalEstimatedFeesPerYear": 432725,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.0,
+      "averagePackage": 1998724,
+      "medianPackage": 1358856,
+      "highestPackage": 3073737,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 179,
+    "studentIntake": 5182,
+    "image": "",
+    "website": "https://www.nitrkl.ac.in"
+  },
+  {
+    "id": "c16",
+    "name": "IIIT Hyderabad",
+    "shortName": "IIIT Hyderabad",
+    "established": 1974,
+    "type": "Government",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 16,
+    "rating": 4.7,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Main Campus, Hyderabad"
+    },
+    "fees": {
+      "tuitionFeePerYear": 528549,
+      "hostelFeePerYear": 71158,
+      "otherChargesPerYear": 21128,
+      "totalEstimatedFeesPerYear": 490746,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 94.5,
+      "averagePackage": 1867385,
+      "medianPackage": 1431977,
+      "highestPackage": 9422521,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.0,
+    "campusSizeAcres": 628,
+    "studentIntake": 7787,
+    "image": "",
+    "website": "https://www.iiit.ac.in"
+  },
+  {
+    "id": "c17",
+    "name": "IIIT Bangalore",
+    "shortName": "IIIT Bangalore",
+    "established": 1949,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 17,
+    "rating": 4.2,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 383165,
+      "hostelFeePerYear": 25307,
+      "otherChargesPerYear": 22682,
+      "totalEstimatedFeesPerYear": 481580,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 84.6,
+      "averagePackage": 1421285,
+      "medianPackage": 1516942,
+      "highestPackage": 17662999,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.1,
+    "campusSizeAcres": 68,
+    "studentIntake": 4702,
+    "image": "",
+    "website": "https://www.iiitb.ac.in"
+  },
+  {
+    "id": "c18",
+    "name": "BITS Pilani",
+    "shortName": "BITS Pilani",
+    "established": 2005,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": 18,
+    "rating": 4.8,
+    "location": {
+      "city": "Pilani",
+      "state": "Rajasthan",
+      "country": "India",
+      "address": "Main Campus, Pilani"
+    },
+    "fees": {
+      "tuitionFeePerYear": 127750,
+      "hostelFeePerYear": 28646,
+      "otherChargesPerYear": 35939,
+      "totalEstimatedFeesPerYear": 593356,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 76.3,
+      "averagePackage": 936401,
+      "medianPackage": 553228,
+      "highestPackage": 9070119,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.2,
+    "campusSizeAcres": 804,
+    "studentIntake": 7761,
+    "image": "",
+    "website": "https://www.bits-pilani.ac.in"
+  },
+  {
+    "id": "c19",
+    "name": "BITS Goa",
+    "shortName": "BITS Goa",
+    "established": 1964,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": 19,
+    "rating": 4.8,
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "country": "India",
+      "address": "Main Campus, Goa"
+    },
+    "fees": {
+      "tuitionFeePerYear": 428264,
+      "hostelFeePerYear": 66326,
+      "otherChargesPerYear": 21840,
+      "totalEstimatedFeesPerYear": 553767,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 78.3,
+      "averagePackage": 958576,
+      "medianPackage": 509232,
+      "highestPackage": 6205163,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.5,
+    "campusSizeAcres": 122,
+    "studentIntake": 4536,
+    "image": "",
+    "website": "https://www.bits-pilani.ac.in/goa"
+  },
+  {
+    "id": "c20",
+    "name": "BITS Hyderabad",
+    "shortName": "BITS Hyderabad",
+    "established": 1964,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 20,
+    "rating": 4.0,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Main Campus, Hyderabad"
+    },
+    "fees": {
+      "tuitionFeePerYear": 424353,
+      "hostelFeePerYear": 58946,
+      "otherChargesPerYear": 31414,
+      "totalEstimatedFeesPerYear": 471595,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 85.4,
+      "averagePackage": 1697118,
+      "medianPackage": 1745265,
+      "highestPackage": 16335356,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.2,
+    "campusSizeAcres": 1099,
+    "studentIntake": 759,
+    "image": "",
+    "website": "https://www.bits-pilani.ac.in/hyderabad"
+  },
+  {
+    "id": "c21",
+    "name": "DTU",
+    "shortName": "DTU",
+    "established": 1970,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 21,
+    "rating": 4.8,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Main Campus, New Delhi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 146229,
+      "hostelFeePerYear": 43722,
+      "otherChargesPerYear": 12341,
+      "totalEstimatedFeesPerYear": 432539,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 94.0,
+      "averagePackage": 1763529,
+      "medianPackage": 579291,
+      "highestPackage": 14817597,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.9,
+    "campusSizeAcres": 291,
+    "studentIntake": 4394,
+    "image": "",
+    "website": "https://www.dtu.ac.in"
+  },
+  {
+    "id": "c22",
+    "name": "NSUT",
+    "shortName": "NSUT",
+    "established": 2008,
+    "type": "Government",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 22,
+    "rating": 4.8,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Main Campus, New Delhi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 570612,
+      "hostelFeePerYear": 87595,
+      "otherChargesPerYear": 38928,
+      "totalEstimatedFeesPerYear": 525601,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.6,
+      "averagePackage": 1627773,
+      "medianPackage": 1296039,
+      "highestPackage": 16591218,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.3,
+    "campusSizeAcres": 530,
+    "studentIntake": 7849,
+    "image": "",
+    "website": "https://www.nsut.ac.in"
+  },
+  {
+    "id": "c23",
+    "name": "Jadavpur University",
+    "shortName": "Jadavpur University",
+    "established": 1947,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 23,
+    "rating": 4.1,
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "address": "Main Campus, Kolkata"
+    },
+    "fees": {
+      "tuitionFeePerYear": 547156,
+      "hostelFeePerYear": 42363,
+      "otherChargesPerYear": 31796,
+      "totalEstimatedFeesPerYear": 202362,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 75.1,
+      "averagePackage": 1339724,
+      "medianPackage": 1461501,
+      "highestPackage": 13035611,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.6,
+    "campusSizeAcres": 172,
+    "studentIntake": 6371,
+    "image": "",
+    "website": "https://jadavpuruniversity.in"
+  },
+  {
+    "id": "c24",
+    "name": "COEP",
+    "shortName": "COEP",
+    "established": 2013,
+    "type": "Deemed University",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 24,
+    "rating": 4.3,
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Pune"
+    },
+    "fees": {
+      "tuitionFeePerYear": 382868,
+      "hostelFeePerYear": 44682,
+      "otherChargesPerYear": 32719,
+      "totalEstimatedFeesPerYear": 298258,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 78.2,
+      "averagePackage": 1670587,
+      "medianPackage": 1519517,
+      "highestPackage": 16623841,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 273,
+    "studentIntake": 3209,
+    "image": "",
+    "website": "https://www.coep.org.in"
+  },
+  {
+    "id": "c25",
+    "name": "PEC",
+    "shortName": "PEC",
+    "established": 1974,
+    "type": "Deemed University",
+    "ownership": "Central",
+    "nirfRank": 25,
+    "rating": 4.6,
+    "location": {
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "country": "India",
+      "address": "Main Campus, Chandigarh"
+    },
+    "fees": {
+      "tuitionFeePerYear": 369122,
+      "hostelFeePerYear": 76133,
+      "otherChargesPerYear": 34649,
+      "totalEstimatedFeesPerYear": 429203,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 90.4,
+      "averagePackage": 1743805,
+      "medianPackage": 1099287,
+      "highestPackage": 6620179,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.7,
+    "campusSizeAcres": 696,
+    "studentIntake": 5791,
+    "image": "",
+    "website": "https://pec.ac.in"
+  },
+  {
+    "id": "c26",
+    "name": "DAIICT",
+    "shortName": "DAIICT",
+    "established": 1996,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": 26,
+    "rating": 4.6,
+    "location": {
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "country": "India",
+      "address": "Main Campus, Gandhinagar"
+    },
+    "fees": {
+      "tuitionFeePerYear": 324154,
+      "hostelFeePerYear": 54597,
+      "otherChargesPerYear": 15924,
+      "totalEstimatedFeesPerYear": 327542,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 94.2,
+      "averagePackage": 698075,
+      "medianPackage": 1628934,
+      "highestPackage": 17185076,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.0,
+    "campusSizeAcres": 517,
+    "studentIntake": 4041,
+    "image": "",
+    "website": "https://www.daiict.ac.in"
+  },
+  {
+    "id": "c27",
+    "name": "LNMIIT",
+    "shortName": "LNMIIT",
+    "established": 1974,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": 27,
+    "rating": 4.3,
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "address": "Main Campus, Jaipur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 264052,
+      "hostelFeePerYear": 52809,
+      "otherChargesPerYear": 10126,
+      "totalEstimatedFeesPerYear": 539911,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 83.3,
+      "averagePackage": 2173726,
+      "medianPackage": 1206740,
+      "highestPackage": 4698801,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.9,
+    "campusSizeAcres": 298,
+    "studentIntake": 7407,
+    "image": "",
+    "website": "https://www.lnmiit.ac.in"
+  },
+  {
+    "id": "c28",
+    "name": "Thapar",
+    "shortName": "Thapar",
+    "established": 1990,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": 28,
+    "rating": 4.8,
+    "location": {
+      "city": "Patiala",
+      "state": "Punjab",
+      "country": "India",
+      "address": "Main Campus, Patiala"
+    },
+    "fees": {
+      "tuitionFeePerYear": 287981,
+      "hostelFeePerYear": 75610,
+      "otherChargesPerYear": 22215,
+      "totalEstimatedFeesPerYear": 410507,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 76.5,
+      "averagePackage": 1672128,
+      "medianPackage": 559941,
+      "highestPackage": 14770261,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.2,
+    "campusSizeAcres": 560,
+    "studentIntake": 6819,
+    "image": "",
+    "website": "https://www.thapar.edu"
+  },
+  {
+    "id": "c29",
+    "name": "VIT Vellore",
+    "shortName": "VIT Vellore",
+    "established": 1977,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 29,
+    "rating": 4.8,
+    "location": {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Vellore"
+    },
+    "fees": {
+      "tuitionFeePerYear": 558222,
+      "hostelFeePerYear": 88354,
+      "otherChargesPerYear": 18572,
+      "totalEstimatedFeesPerYear": 367926,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 96.2,
+      "averagePackage": 892100,
+      "medianPackage": 1097450,
+      "highestPackage": 8502977,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.1,
+    "campusSizeAcres": 628,
+    "studentIntake": 878,
+    "image": "",
+    "website": "https://vit.ac.in"
+  },
+  {
+    "id": "c30",
+    "name": "SRM IST",
+    "shortName": "SRM IST",
+    "established": 1993,
+    "type": "Deemed University",
+    "ownership": "Central",
+    "nirfRank": 30,
+    "rating": 4.6,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Chennai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 236130,
+      "hostelFeePerYear": 69601,
+      "otherChargesPerYear": 13069,
+      "totalEstimatedFeesPerYear": 665208,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 89.3,
+      "averagePackage": 1739586,
+      "medianPackage": 633872,
+      "highestPackage": 6737121,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.8,
+    "campusSizeAcres": 954,
+    "studentIntake": 2850,
+    "image": "",
+    "website": "https://www.srmist.edu.in"
+  },
+  {
+    "id": "c31",
+    "name": "Manipal Institute of Technology",
+    "shortName": "Manipal Institute of Technology",
+    "established": 1963,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": 31,
+    "rating": 4.6,
+    "location": {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Manipal"
+    },
+    "fees": {
+      "tuitionFeePerYear": 269459,
+      "hostelFeePerYear": 59126,
+      "otherChargesPerYear": 33886,
+      "totalEstimatedFeesPerYear": 557302,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 81.2,
+      "averagePackage": 1549929,
+      "medianPackage": 1350363,
+      "highestPackage": 8332040,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 99,
+    "studentIntake": 1918,
+    "image": "",
+    "website": "https://manipal.edu/mit.html"
+  },
+  {
+    "id": "c32",
+    "name": "KIIT",
+    "shortName": "KIIT",
+    "established": 1946,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 32,
+    "rating": 4.0,
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "country": "India",
+      "address": "Main Campus, Bhubaneswar"
+    },
+    "fees": {
+      "tuitionFeePerYear": 381057,
+      "hostelFeePerYear": 82371,
+      "otherChargesPerYear": 30865,
+      "totalEstimatedFeesPerYear": 646991,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 80.4,
+      "averagePackage": 2158349,
+      "medianPackage": 1732057,
+      "highestPackage": 14171017,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 679,
+    "studentIntake": 1591,
+    "image": "",
+    "website": "https://kiit.ac.in"
+  },
+  {
+    "id": "c33",
+    "name": "Amity University",
+    "shortName": "Amity University",
+    "established": 2003,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 33,
+    "rating": 4.0,
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Noida"
+    },
+    "fees": {
+      "tuitionFeePerYear": 172406,
+      "hostelFeePerYear": 81772,
+      "otherChargesPerYear": 20697,
+      "totalEstimatedFeesPerYear": 678161,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 90.6,
+      "averagePackage": 1862520,
+      "medianPackage": 1776605,
+      "highestPackage": 10924503,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.1,
+    "campusSizeAcres": 619,
+    "studentIntake": 2702,
+    "image": "",
+    "website": "https://www.amity.edu"
+  },
+  {
+    "id": "c34",
+    "name": "Shiv Nadar University",
+    "shortName": "Shiv Nadar University",
+    "established": 1960,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 34,
+    "rating": 4.4,
+    "location": {
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Greater Noida"
+    },
+    "fees": {
+      "tuitionFeePerYear": 425387,
+      "hostelFeePerYear": 89035,
+      "otherChargesPerYear": 10976,
+      "totalEstimatedFeesPerYear": 548557,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 84.1,
+      "averagePackage": 953844,
+      "medianPackage": 747756,
+      "highestPackage": 8929589,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.2,
+    "campusSizeAcres": 109,
+    "studentIntake": 4713,
+    "image": "",
+    "website": "https://snu.edu.in"
+  },
+  {
+    "id": "c35",
+    "name": "UPES",
+    "shortName": "UPES",
+    "established": 1942,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 35,
+    "rating": 4.8,
+    "location": {
+      "city": "Dehradun",
+      "state": "Uttarakhand",
+      "country": "India",
+      "address": "Main Campus, Dehradun"
+    },
+    "fees": {
+      "tuitionFeePerYear": 580339,
+      "hostelFeePerYear": 79583,
+      "otherChargesPerYear": 20402,
+      "totalEstimatedFeesPerYear": 189504,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 79.0,
+      "averagePackage": 1799833,
+      "medianPackage": 694611,
+      "highestPackage": 4301080,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.7,
+    "campusSizeAcres": 145,
+    "studentIntake": 1425,
+    "image": "",
+    "website": "https://www.upes.ac.in"
+  },
+  {
+    "id": "c36",
+    "name": "MIT WPU",
+    "shortName": "MIT WPU",
+    "established": 1975,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 36,
+    "rating": 4.3,
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Pune"
+    },
+    "fees": {
+      "tuitionFeePerYear": 402459,
+      "hostelFeePerYear": 29574,
+      "otherChargesPerYear": 35480,
+      "totalEstimatedFeesPerYear": 249403,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 75.5,
+      "averagePackage": 1998066,
+      "medianPackage": 642260,
+      "highestPackage": 8634199,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 139,
+    "studentIntake": 6574,
+    "image": "",
+    "website": "https://mitwpu.edu.in"
+  },
+  {
+    "id": "c37",
+    "name": "RVCE",
+    "shortName": "RVCE",
+    "established": 2001,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": 37,
+    "rating": 4.4,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 211669,
+      "hostelFeePerYear": 54807,
+      "otherChargesPerYear": 22231,
+      "totalEstimatedFeesPerYear": 570869,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 91.7,
+      "averagePackage": 2112356,
+      "medianPackage": 796055,
+      "highestPackage": 7461168,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.3,
+    "campusSizeAcres": 1114,
+    "studentIntake": 3395,
+    "image": "",
+    "website": "https://rvce.edu.in"
+  },
+  {
+    "id": "c38",
+    "name": "BMSCE",
+    "shortName": "BMSCE",
+    "established": 1954,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": 38,
+    "rating": 4.2,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 334266,
+      "hostelFeePerYear": 34391,
+      "otherChargesPerYear": 21958,
+      "totalEstimatedFeesPerYear": 646436,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 87.6,
+      "averagePackage": 2247862,
+      "medianPackage": 825632,
+      "highestPackage": 10509556,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.9,
+    "campusSizeAcres": 70,
+    "studentIntake": 2662,
+    "image": "",
+    "website": "https://bmsce.ac.in"
+  },
+  {
+    "id": "c39",
+    "name": "MSRIT",
+    "shortName": "MSRIT",
+    "established": 1951,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": 39,
+    "rating": 4.6,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 592313,
+      "hostelFeePerYear": 70280,
+      "otherChargesPerYear": 22964,
+      "totalEstimatedFeesPerYear": 459148,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 95.5,
+      "averagePackage": 1211055,
+      "medianPackage": 612880,
+      "highestPackage": 14903532,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.1,
+    "campusSizeAcres": 950,
+    "studentIntake": 7930,
+    "image": "",
+    "website": "https://www.msrit.edu"
+  },
+  {
+    "id": "c40",
+    "name": "Nirma University",
+    "shortName": "Nirma University",
+    "established": 1955,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": 40,
+    "rating": 4.0,
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "address": "Main Campus, Ahmedabad"
+    },
+    "fees": {
+      "tuitionFeePerYear": 435713,
+      "hostelFeePerYear": 48943,
+      "otherChargesPerYear": 39660,
+      "totalEstimatedFeesPerYear": 631007,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 95.0,
+      "averagePackage": 1421773,
+      "medianPackage": 1348015,
+      "highestPackage": 6144713,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.7,
+    "campusSizeAcres": 833,
+    "studentIntake": 5468,
+    "image": "",
+    "website": "https://www.nirmauni.ac.in"
+  },
+  {
+    "id": "c41",
+    "name": "PES University",
+    "shortName": "PES University",
+    "established": 1985,
+    "type": "Deemed University",
+    "ownership": "Central",
+    "nirfRank": 41,
+    "rating": 4.5,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 572198,
+      "hostelFeePerYear": 36456,
+      "otherChargesPerYear": 35595,
+      "totalEstimatedFeesPerYear": 321342,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.0,
+      "averagePackage": 1720710,
+      "medianPackage": 1691570,
+      "highestPackage": 4948841,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.6,
+    "campusSizeAcres": 636,
+    "studentIntake": 7505,
+    "image": "",
+    "website": "https://pes.edu"
+  },
+  {
+    "id": "c42",
+    "name": "Chandigarh University",
+    "shortName": "Chandigarh University",
+    "established": 1967,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 42,
+    "rating": 4.9,
+    "location": {
+      "city": "Mohali",
+      "state": "Punjab",
+      "country": "India",
+      "address": "Main Campus, Mohali"
+    },
+    "fees": {
+      "tuitionFeePerYear": 432394,
+      "hostelFeePerYear": 70495,
+      "otherChargesPerYear": 36011,
+      "totalEstimatedFeesPerYear": 524299,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 92.8,
+      "averagePackage": 1402207,
+      "medianPackage": 512525,
+      "highestPackage": 10262967,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.7,
+    "campusSizeAcres": 376,
+    "studentIntake": 2500,
+    "image": "",
+    "website": "https://www.cuchd.in"
+  },
+  {
+    "id": "c43",
+    "name": "LPU",
+    "shortName": "LPU",
+    "established": 2013,
+    "type": "Deemed University",
+    "ownership": "Central",
+    "nirfRank": 43,
+    "rating": 4.4,
+    "location": {
+      "city": "Phagwara",
+      "state": "Punjab",
+      "country": "India",
+      "address": "Main Campus, Phagwara"
+    },
+    "fees": {
+      "tuitionFeePerYear": 217937,
+      "hostelFeePerYear": 56397,
+      "otherChargesPerYear": 39106,
+      "totalEstimatedFeesPerYear": 496241,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 76.5,
+      "averagePackage": 616492,
+      "medianPackage": 1006243,
+      "highestPackage": 8402038,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.8,
+    "campusSizeAcres": 446,
+    "studentIntake": 1322,
+    "image": "",
+    "website": "https://www.lpu.in"
+  },
+  {
+    "id": "c44",
+    "name": "SSN College",
+    "shortName": "SSN College",
+    "established": 2012,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 44,
+    "rating": 4.2,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Chennai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 145103,
+      "hostelFeePerYear": 65917,
+      "otherChargesPerYear": 26014,
+      "totalEstimatedFeesPerYear": 600962,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.9,
+      "averagePackage": 1863956,
+      "medianPackage": 960400,
+      "highestPackage": 12091797,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.9,
+    "campusSizeAcres": 131,
+    "studentIntake": 1211,
+    "image": "",
+    "website": "https://www.ssn.edu.in"
+  },
+  {
+    "id": "c45",
+    "name": "IIIT Delhi",
+    "shortName": "IIIT Delhi",
+    "established": 1978,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": 45,
+    "rating": 4.2,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Main Campus, New Delhi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 168862,
+      "hostelFeePerYear": 80508,
+      "otherChargesPerYear": 33142,
+      "totalEstimatedFeesPerYear": 239676,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 76.5,
+      "averagePackage": 2067056,
+      "medianPackage": 1734716,
+      "highestPackage": 17761023,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 358,
+    "studentIntake": 6304,
+    "image": "",
+    "website": "https://iiitd.ac.in"
+  },
+  {
+    "id": "c46",
+    "name": "IIIT Lucknow",
+    "shortName": "IIIT Lucknow",
+    "established": 1994,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 46,
+    "rating": 4.5,
+    "location": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Lucknow"
+    },
+    "fees": {
+      "tuitionFeePerYear": 304146,
+      "hostelFeePerYear": 38731,
+      "otherChargesPerYear": 38347,
+      "totalEstimatedFeesPerYear": 491311,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 93.9,
+      "averagePackage": 941137,
+      "medianPackage": 871070,
+      "highestPackage": 10627555,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.3,
+    "campusSizeAcres": 765,
+    "studentIntake": 855,
+    "image": "",
+    "website": "https://iiitl.ac.in"
+  },
+  {
+    "id": "c47",
+    "name": "IIIT Gwalior",
+    "shortName": "IIIT Gwalior",
+    "established": 1957,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": 47,
+    "rating": 4.1,
+    "location": {
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "address": "Main Campus, Gwalior"
+    },
+    "fees": {
+      "tuitionFeePerYear": 596521,
+      "hostelFeePerYear": 85485,
+      "otherChargesPerYear": 16490,
+      "totalEstimatedFeesPerYear": 464128,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.1,
+      "averagePackage": 2354111,
+      "medianPackage": 640749,
+      "highestPackage": 11288111,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.8,
+    "campusSizeAcres": 900,
+    "studentIntake": 6454,
+    "image": "",
+    "website": "https://www.iiitm.ac.in"
+  },
+  {
+    "id": "c48",
+    "name": "NIT Jalandhar",
+    "shortName": "NIT Jalandhar",
+    "established": 1993,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": 48,
+    "rating": 4.4,
+    "location": {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "country": "India",
+      "address": "Main Campus, Jalandhar"
+    },
+    "fees": {
+      "tuitionFeePerYear": 238888,
+      "hostelFeePerYear": 27256,
+      "otherChargesPerYear": 10052,
+      "totalEstimatedFeesPerYear": 674548,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 89.3,
+      "averagePackage": 1245879,
+      "medianPackage": 1655045,
+      "highestPackage": 14953620,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.0,
+    "campusSizeAcres": 651,
+    "studentIntake": 1007,
+    "image": "",
+    "website": "https://www.nitj.ac.in"
+  },
+  {
+    "id": "c49",
+    "name": "NIT Kurukshetra",
+    "shortName": "NIT Kurukshetra",
+    "established": 1992,
+    "type": "Government",
+    "ownership": "Private Trust",
+    "nirfRank": 49,
+    "rating": 4.4,
+    "location": {
+      "city": "Kurukshetra",
+      "state": "Haryana",
+      "country": "India",
+      "address": "Main Campus, Kurukshetra"
+    },
+    "fees": {
+      "tuitionFeePerYear": 213340,
+      "hostelFeePerYear": 61354,
+      "otherChargesPerYear": 17699,
+      "totalEstimatedFeesPerYear": 628103,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 87.0,
+      "averagePackage": 660127,
+      "medianPackage": 761360,
+      "highestPackage": 7542535,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 177,
+    "studentIntake": 6871,
+    "image": "",
+    "website": "https://nitkkr.ac.in"
+  },
+  {
+    "id": "c50",
+    "name": "NIT Durgapur",
+    "shortName": "NIT Durgapur",
+    "established": 2017,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": 50,
+    "rating": 4.8,
+    "location": {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "country": "India",
+      "address": "Main Campus, Durgapur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 501099,
+      "hostelFeePerYear": 25532,
+      "otherChargesPerYear": 16945,
+      "totalEstimatedFeesPerYear": 504485,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 85.1,
+      "averagePackage": 1121993,
+      "medianPackage": 1584997,
+      "highestPackage": 3123543,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.9,
+    "campusSizeAcres": 1095,
+    "studentIntake": 2403,
+    "image": "",
+    "website": "https://nitdgp.ac.in"
+  },
+  {
+    "id": "c51",
+    "name": "NIT Silchar",
+    "shortName": "NIT Silchar",
+    "established": 1953,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.5,
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "country": "India",
+      "address": "Main Campus, Silchar"
+    },
+    "fees": {
+      "tuitionFeePerYear": 267599,
+      "hostelFeePerYear": 73489,
+      "otherChargesPerYear": 14723,
+      "totalEstimatedFeesPerYear": 400300,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 96.6,
+      "averagePackage": 941041,
+      "medianPackage": 857571,
+      "highestPackage": 8300036,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.7,
+    "campusSizeAcres": 907,
+    "studentIntake": 4957,
+    "image": "",
+    "website": "https://www.nits.ac.in"
+  },
+  {
+    "id": "c52",
+    "name": "NIT Hamirpur",
+    "shortName": "NIT Hamirpur",
+    "established": 1979,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.6,
+    "location": {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "address": "Main Campus, Hamirpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 250373,
+      "hostelFeePerYear": 76914,
+      "otherChargesPerYear": 14645,
+      "totalEstimatedFeesPerYear": 213066,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 82.3,
+      "averagePackage": 2193853,
+      "medianPackage": 1496528,
+      "highestPackage": 7042460,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.7,
+    "campusSizeAcres": 1178,
+    "studentIntake": 895,
+    "image": "",
+    "website": "https://nith.ac.in"
+  },
+  {
+    "id": "c53",
+    "name": "NIT Raipur",
+    "shortName": "NIT Raipur",
+    "established": 1960,
+    "type": "Deemed University",
+    "ownership": "Institute of National Importance",
+    "nirfRank": null,
+    "rating": 4.7,
+    "location": {
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "country": "India",
+      "address": "Main Campus, Raipur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 178885,
+      "hostelFeePerYear": 61749,
+      "otherChargesPerYear": 38089,
+      "totalEstimatedFeesPerYear": 635812,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.1,
+      "averagePackage": 1730098,
+      "medianPackage": 1339444,
+      "highestPackage": 8762565,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.1,
+    "campusSizeAcres": 912,
+    "studentIntake": 5160,
+    "image": "",
+    "website": "https://nitrr.ac.in"
+  },
+  {
+    "id": "c54",
+    "name": "VNIT Nagpur",
+    "shortName": "VNIT Nagpur",
+    "established": 1973,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.3,
+    "location": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Nagpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 450283,
+      "hostelFeePerYear": 72360,
+      "otherChargesPerYear": 25015,
+      "totalEstimatedFeesPerYear": 350177,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 97.2,
+      "averagePackage": 2053166,
+      "medianPackage": 1503692,
+      "highestPackage": 10057817,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.8,
+    "campusSizeAcres": 122,
+    "studentIntake": 1717,
+    "image": "",
+    "website": "https://vnit.ac.in"
+  },
+  {
+    "id": "c55",
+    "name": "ICT Mumbai",
+    "shortName": "ICT Mumbai",
+    "established": 1952,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": null,
+    "rating": 4.7,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Mumbai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 232320,
+      "hostelFeePerYear": 42443,
+      "otherChargesPerYear": 29816,
+      "totalEstimatedFeesPerYear": 349814,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 93.2,
+      "averagePackage": 668993,
+      "medianPackage": 1053035,
+      "highestPackage": 15080991,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.4,
+    "campusSizeAcres": 729,
+    "studentIntake": 4006,
+    "image": "",
+    "website": "https://www.ictmumbai.edu.in"
+  },
+  {
+    "id": "c56",
+    "name": "Jamia Hamdard",
+    "shortName": "Jamia Hamdard",
+    "established": 2013,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.8,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Main Campus, New Delhi"
+    },
+    "fees": {
+      "tuitionFeePerYear": 296761,
+      "hostelFeePerYear": 35338,
+      "otherChargesPerYear": 38810,
+      "totalEstimatedFeesPerYear": 314738,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 80.3,
+      "averagePackage": 2102061,
+      "medianPackage": 594499,
+      "highestPackage": 13771695,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.5,
+    "campusSizeAcres": 97,
+    "studentIntake": 2160,
+    "image": "",
+    "website": "https://jamiahamdard.edu"
+  },
+  {
+    "id": "c57",
+    "name": "SASTRA",
+    "shortName": "SASTRA",
+    "established": 1952,
+    "type": "Deemed University",
+    "ownership": "Private Trust",
+    "nirfRank": null,
+    "rating": 4.2,
+    "location": {
+      "city": "Thanjavur",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Thanjavur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 367542,
+      "hostelFeePerYear": 56163,
+      "otherChargesPerYear": 11469,
+      "totalEstimatedFeesPerYear": 334272,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 85.0,
+      "averagePackage": 2106165,
+      "medianPackage": 1600942,
+      "highestPackage": 8042048,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.4,
+    "campusSizeAcres": 1151,
+    "studentIntake": 535,
+    "image": "",
+    "website": "https://www.sastra.edu"
+  },
+  {
+    "id": "c58",
+    "name": "KLE Tech",
+    "shortName": "KLE Tech",
+    "established": 1977,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.0,
+    "location": {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Hubli"
+    },
+    "fees": {
+      "tuitionFeePerYear": 448991,
+      "hostelFeePerYear": 53962,
+      "otherChargesPerYear": 16559,
+      "totalEstimatedFeesPerYear": 599027,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.8,
+      "averagePackage": 1759666,
+      "medianPackage": 546153,
+      "highestPackage": 17929547,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 492,
+    "studentIntake": 2983,
+    "image": "",
+    "website": "https://www.kletech.ac.in"
+  },
+  {
+    "id": "c59",
+    "name": "SRM AP",
+    "shortName": "SRM AP",
+    "established": 1963,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.2,
+    "location": {
+      "city": "Amaravati",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "address": "Main Campus, Amaravati"
+    },
+    "fees": {
+      "tuitionFeePerYear": 147409,
+      "hostelFeePerYear": 50738,
+      "otherChargesPerYear": 27800,
+      "totalEstimatedFeesPerYear": 370989,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 94.5,
+      "averagePackage": 891542,
+      "medianPackage": 1151903,
+      "highestPackage": 9716350,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.2,
+    "campusSizeAcres": 1160,
+    "studentIntake": 4999,
+    "image": "",
+    "website": "https://srmap.edu.in"
+  },
+  {
+    "id": "c60",
+    "name": "VIT AP",
+    "shortName": "VIT AP",
+    "established": 2003,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.3,
+    "location": {
+      "city": "Amaravati",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "address": "Main Campus, Amaravati"
+    },
+    "fees": {
+      "tuitionFeePerYear": 272018,
+      "hostelFeePerYear": 83981,
+      "otherChargesPerYear": 11065,
+      "totalEstimatedFeesPerYear": 586744,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.4,
+      "averagePackage": 1648674,
+      "medianPackage": 1418838,
+      "highestPackage": 12798121,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.8,
+    "campusSizeAcres": 1059,
+    "studentIntake": 5944,
+    "image": "",
+    "website": "https://vitap.ac.in"
+  },
+  {
+    "id": "c61",
+    "name": "Graphic Era",
+    "shortName": "Graphic Era",
+    "established": 1954,
+    "type": "Private",
+    "ownership": "Private Trust",
+    "nirfRank": null,
+    "rating": 4.6,
+    "location": {
+      "city": "Dehradun",
+      "state": "Uttarakhand",
+      "country": "India",
+      "address": "Main Campus, Dehradun"
+    },
+    "fees": {
+      "tuitionFeePerYear": 352884,
+      "hostelFeePerYear": 89930,
+      "otherChargesPerYear": 37984,
+      "totalEstimatedFeesPerYear": 328118,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 81.9,
+      "averagePackage": 2025043,
+      "medianPackage": 1706866,
+      "highestPackage": 12469581,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.1,
+    "campusSizeAcres": 937,
+    "studentIntake": 3944,
+    "image": "",
+    "website": "https://geu.ac.in"
+  },
+  {
+    "id": "c62",
+    "name": "Bennett University",
+    "shortName": "Bennett University",
+    "established": 2003,
+    "type": "Private",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.7,
+    "location": {
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Greater Noida"
+    },
+    "fees": {
+      "tuitionFeePerYear": 239025,
+      "hostelFeePerYear": 64911,
+      "otherChargesPerYear": 22252,
+      "totalEstimatedFeesPerYear": 525762,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 91.8,
+      "averagePackage": 872834,
+      "medianPackage": 711522,
+      "highestPackage": 17737579,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.7,
+    "campusSizeAcres": 236,
+    "studentIntake": 6475,
+    "image": "",
+    "website": "https://www.bennett.edu.in"
+  },
+  {
+    "id": "c63",
+    "name": "Galgotias University",
+    "shortName": "Galgotias University",
+    "established": 1977,
+    "type": "Government",
+    "ownership": "Institute of National Importance",
+    "nirfRank": null,
+    "rating": 4.1,
+    "location": {
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Greater Noida"
+    },
+    "fees": {
+      "tuitionFeePerYear": 442894,
+      "hostelFeePerYear": 41631,
+      "otherChargesPerYear": 37381,
+      "totalEstimatedFeesPerYear": 327980,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 77.9,
+      "averagePackage": 1120205,
+      "medianPackage": 529257,
+      "highestPackage": 16817178,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.8,
+    "campusSizeAcres": 537,
+    "studentIntake": 5996,
+    "image": "",
+    "website": "https://www.galgotiasuniversity.edu.in"
+  },
+  {
+    "id": "c64",
+    "name": "NMIMS MPSTME",
+    "shortName": "NMIMS MPSTME",
+    "established": 1972,
+    "type": "Government",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.2,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Mumbai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 597005,
+      "hostelFeePerYear": 69439,
+      "otherChargesPerYear": 12483,
+      "totalEstimatedFeesPerYear": 516836,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 88.9,
+      "averagePackage": 1688162,
+      "medianPackage": 888683,
+      "highestPackage": 5523819,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 990,
+    "studentIntake": 3784,
+    "image": "",
+    "website": "https://engineering.nmims.edu"
+  },
+  {
+    "id": "c65",
+    "name": "JECRC University",
+    "shortName": "JECRC University",
+    "established": 1984,
+    "type": "Deemed University",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.6,
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "address": "Main Campus, Jaipur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 154812,
+      "hostelFeePerYear": 35773,
+      "otherChargesPerYear": 31203,
+      "totalEstimatedFeesPerYear": 196721,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.6,
+      "averagePackage": 1226058,
+      "medianPackage": 707865,
+      "highestPackage": 3866502,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.2,
+    "campusSizeAcres": 749,
+    "studentIntake": 4138,
+    "image": "",
+    "website": "https://www.jecrcuniversity.edu.in"
+  },
+  {
+    "id": "c66",
+    "name": "CV Raman Global",
+    "shortName": "CV Raman Global",
+    "established": 1953,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.7,
+    "location": {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "country": "India",
+      "address": "Main Campus, Bhubaneswar"
+    },
+    "fees": {
+      "tuitionFeePerYear": 235023,
+      "hostelFeePerYear": 56583,
+      "otherChargesPerYear": 23305,
+      "totalEstimatedFeesPerYear": 291046,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 92.7,
+      "averagePackage": 1237564,
+      "medianPackage": 1447606,
+      "highestPackage": 7820065,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.2,
+    "campusSizeAcres": 195,
+    "studentIntake": 3439,
+    "image": "",
+    "website": "https://cgu-odisha.ac.in"
+  },
+  {
+    "id": "c67",
+    "name": "SNU Chennai",
+    "shortName": "SNU Chennai",
+    "established": 1972,
+    "type": "Government",
+    "ownership": "Institute of National Importance",
+    "nirfRank": null,
+    "rating": 4.7,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "Main Campus, Chennai"
+    },
+    "fees": {
+      "tuitionFeePerYear": 494659,
+      "hostelFeePerYear": 59643,
+      "otherChargesPerYear": 32891,
+      "totalEstimatedFeesPerYear": 533598,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 79.0,
+      "averagePackage": 610142,
+      "medianPackage": 796290,
+      "highestPackage": 5986424,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.8,
+    "campusSizeAcres": 843,
+    "studentIntake": 4663,
+    "image": "",
+    "website": "https://snu.edu.in/chennai"
+  },
+  {
+    "id": "c68",
+    "name": "Alliance University",
+    "shortName": "Alliance University",
+    "established": 1952,
+    "type": "Private",
+    "ownership": "Institute of National Importance",
+    "nirfRank": null,
+    "rating": 4.1,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 369892,
+      "hostelFeePerYear": 40139,
+      "otherChargesPerYear": 36111,
+      "totalEstimatedFeesPerYear": 355143,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 87.2,
+      "averagePackage": 1613715,
+      "medianPackage": 969554,
+      "highestPackage": 16907979,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.0,
+    "campusSizeAcres": 1127,
+    "studentIntake": 6309,
+    "image": "",
+    "website": "https://www.alliance.edu.in"
+  },
+  {
+    "id": "c69",
+    "name": "REVA University",
+    "shortName": "REVA University",
+    "established": 2001,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.3,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "Main Campus, Bengaluru"
+    },
+    "fees": {
+      "tuitionFeePerYear": 262237,
+      "hostelFeePerYear": 20759,
+      "otherChargesPerYear": 39020,
+      "totalEstimatedFeesPerYear": 278883,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 80.8,
+      "averagePackage": 974430,
+      "medianPackage": 618407,
+      "highestPackage": 4785149,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 910,
+    "studentIntake": 6828,
+    "image": "",
+    "website": "https://www.reva.edu.in"
+  },
+  {
+    "id": "c70",
+    "name": "RCOEM",
+    "shortName": "RCOEM",
+    "established": 2018,
+    "type": "Deemed University",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.8,
+    "location": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Nagpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 528209,
+      "hostelFeePerYear": 56610,
+      "otherChargesPerYear": 20425,
+      "totalEstimatedFeesPerYear": 628113,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 79.1,
+      "averagePackage": 2392239,
+      "medianPackage": 1457736,
+      "highestPackage": 8310474,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.1,
+    "campusSizeAcres": 419,
+    "studentIntake": 7840,
+    "image": "",
+    "website": "https://www.rknec.edu"
+  },
+  {
+    "id": "c71",
+    "name": "SIT Pune",
+    "shortName": "SIT Pune",
+    "established": 1941,
+    "type": "Deemed University",
+    "ownership": "Institute of National Importance",
+    "nirfRank": null,
+    "rating": 4.8,
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Pune"
+    },
+    "fees": {
+      "tuitionFeePerYear": 367586,
+      "hostelFeePerYear": 20391,
+      "otherChargesPerYear": 35770,
+      "totalEstimatedFeesPerYear": 671092,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 86.0,
+      "averagePackage": 1315984,
+      "medianPackage": 1211023,
+      "highestPackage": 6413744,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 8.2,
+    "campusSizeAcres": 281,
+    "studentIntake": 7692,
+    "image": "",
+    "website": "https://www.sitpune.edu.in"
+  },
+  {
+    "id": "c72",
+    "name": "Walchand College",
+    "shortName": "Walchand College",
+    "established": 1977,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.2,
+    "location": {
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "country": "India",
+      "address": "Main Campus, Sangli"
+    },
+    "fees": {
+      "tuitionFeePerYear": 129063,
+      "hostelFeePerYear": 37495,
+      "otherChargesPerYear": 36313,
+      "totalEstimatedFeesPerYear": 292188,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 90.4,
+      "averagePackage": 1550229,
+      "medianPackage": 1286080,
+      "highestPackage": 10361387,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 7.2,
+    "campusSizeAcres": 110,
+    "studentIntake": 5249,
+    "image": "",
+    "website": "https://www.walchandsangli.ac.in"
+  },
+  {
+    "id": "c73",
+    "name": "AKGEC",
+    "shortName": "AKGEC",
+    "established": 1940,
+    "type": "Private",
+    "ownership": "State",
+    "nirfRank": null,
+    "rating": 4.2,
+    "location": {
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Ghaziabad"
+    },
+    "fees": {
+      "tuitionFeePerYear": 238795,
+      "hostelFeePerYear": 85313,
+      "otherChargesPerYear": 31788,
+      "totalEstimatedFeesPerYear": 583731,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 78.7,
+      "averagePackage": 1456312,
+      "medianPackage": 779265,
+      "highestPackage": 16181413,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 9.7,
+    "campusSizeAcres": 196,
+    "studentIntake": 6055,
+    "image": "",
+    "website": "https://www.akgec.ac.in"
+  },
+  {
+    "id": "c74",
+    "name": "HBTU",
+    "shortName": "HBTU",
+    "established": 2009,
+    "type": "Government",
+    "ownership": "Central",
+    "nirfRank": null,
+    "rating": 4.4,
+    "location": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "address": "Main Campus, Kanpur"
+    },
+    "fees": {
+      "tuitionFeePerYear": 354383,
+      "hostelFeePerYear": 56992,
+      "otherChargesPerYear": 10718,
+      "totalEstimatedFeesPerYear": 643536,
+      "currency": "INR"
+    },
+    "placements": {
+      "academicYear": "2025-2026",
+      "placementPercentage": 80.9,
+      "averagePackage": 1518889,
+      "medianPackage": 1197495,
+      "highestPackage": 12186356,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Adobe",
+        "Goldman Sachs"
+      ],
+      "currency": "INR"
+    },
+    "entranceExams": ["JEE Main"],
+    "featuredCourses": [
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering"
+    ],
+    "hostelAvailable": true,
+    "roiScore": 6.6,
+    "campusSizeAcres": 1159,
+    "studentIntake": 3145,
+    "image": "",
+    "website": "https://hbtu.ac.in"
+  }
+]
