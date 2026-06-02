@@ -209,8 +209,9 @@ function App() {
         queryParams.append("course", course);
       });
 
+      const baseUrl = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:5000' : '');
       const response = await fetch(
-        `http://localhost:5000/api/colleges?${queryParams.toString()}`,
+        `${baseUrl}/api/colleges?${queryParams.toString()}`,
       );
       const result = await response.json();
 

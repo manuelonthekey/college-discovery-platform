@@ -2,68 +2,61 @@ import express from 'express';
 import cors from 'cors';
 import mongoose from 'mongoose';
 import dns from 'dns';
+import dotenv from 'dotenv';
 import collegeRoutes from './routes/collegeRoutes.js';
 
-// Apply the DNS patch globally to ensure server.js connects flawlessly too
+dotenv.config();
+
+// DNS patch: Force Node to use Cloudflare & Google DNS to resolve MongoDB Atlas SRV records
 dns.setServers(['1.1.1.1', '8.8.8.8']);
 
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
-app.use(cors());
+// ── CORS ──────────────────────────────────────────────────────────────────────
+// In production the frontend is served from Netlify.
+// Set FRONTEND_URL in the Render environment dashboard to your Netlify site URL.
+// e.g.  FRONTEND_URL=https://college-dhundo.netlify.app
+const allowedOrigins = [
+  'http://localhost:5173',  // Vite dev server
+  'http://localhost:3000',
+  process.env.FRONTEND_URL, // Production Netlify URL (set in Render env vars)
+].filter(Boolean);
+
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow requests with no Origin header (e.g. curl, Postman, server-to-server)
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error(`CORS blocked for origin: ${origin}`));
+    }
+  },
+  credentials: true,
+}));
+
 app.use(express.json());
 
-// 🔌 Mount API Routes
-// This means any URL starting with /api/colleges will be handled by collegeRoutes.js
+// ── Routes ────────────────────────────────────────────────────────────────────
 app.use('/api/colleges', collegeRoutes);
 
-// Base Diagnostic Route
+// Health check / root
 app.get('/', (req, res) => {
   res.send('🏫 College Discovery Platform API is running smoothly...');
 });
 
-// Database Connection & Server Bootup
-// Using your verified connection string
-const MONGODB_URI = "mongodb+srv://collegeDiscovery:1234567890@collegediscovery.lmuoeno.mongodb.net/collegeDB?retryWrites=true&w=majority";
+// ── Database & Server Boot ────────────────────────────────────────────────────
+const FALLBACK_URI = "mongodb+srv://collegeDiscovery:1234567890@collegediscovery.lmuoeno.mongodb.net/collegeDB?retryWrites=true&w=majority";
+const MONGODB_URI = process.env.MONGODB_URI || FALLBACK_URI;
 
 mongoose.connect(MONGODB_URI)
   .then(() => {
     console.log('🍃 Connected to MongoDB Cloud Database successfully.');
     app.listen(PORT, () => {
-      console.log(`🚀 Server running in production mode on port ${PORT}`);
+      console.log(`🚀 Server running on port ${PORT}`);
     });
   })
   .catch((err) => {
     console.error(`❌ Database connection failed: ${err.message}`);
+    process.exit(1);
   });
-
-/*
-import express from 'express';
-import cors from 'cors';
-import dotenv from 'dotenv';
-
-// Load environmental variables
-dotenv.config();
-
-const app = express();
-const PORT = process.env.PORT || 5000;
-
-// Middleware
-app.use(cors());
-app.use(express.json()); // Allows our server to read JSON bodies in incoming requests
-
-// Health Check Route (To confirm everything is working smoothly)
-app.get('/api/health', (req, res) => {
-  res.status(200).json({
-    status: 'success',
-    message: 'Server is up, running, and healthy!',
-    timestamp: new Date()
-  });
-});
-
-// Start the server listening process
-app.listen(PORT, () => {
-  console.log(`🚀 Mentor Core Engine running in production mode on port: ${PORT}`);
-});
-*/

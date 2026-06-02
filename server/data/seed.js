@@ -13,14 +13,15 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 🚨 FOR FORCE-TESTING ONLY: Paste your actual string inside the quotes below
-const HARDCODED_URI = "mongodb+srv://collegeDiscovery:1234567890@collegediscovery.lmuoeno.mongodb.net/collegeDB?retryWrites=true&w=majority";
+const FALLBACK_URI = "mongodb+srv://collegeDiscovery:1234567890@collegediscovery.lmuoeno.mongodb.net/collegeDB?retryWrites=true&w=majority";
+const MONGODB_URI = process.env.MONGODB_URI || FALLBACK_URI;
 
 const seedData = async () => {
   try {
     console.log('⏳ Connecting directly to MongoDB Atlas...');
     
-    // We are forcing Mongoose to use the direct string variable here
-    await mongoose.connect(HARDCODED_URI);
+    // We are forcing Mongoose to use the URI from environment or fallback
+    await mongoose.connect(MONGODB_URI);
     console.log('🍃 Database connected safely.');
 
     const jsonPath = path.join(__dirname, 'college_dataset.json');
