@@ -16,7 +16,7 @@ const UniversalFooter = () => {
               <a href="https://github.com/manuelonthekey" target="_blank" rel="noopener noreferrer">
                 <Code size={16} /> GitHub
               </a>
-              <a href="www.linkedin.com/in/manojit-maitra" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/manojit-maitra" target="_blank" rel="noopener noreferrer">
                 <Briefcase size={16} /> LinkedIn
               </a>
               {/*<a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
