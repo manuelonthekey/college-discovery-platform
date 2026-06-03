@@ -18,6 +18,60 @@ import {
   ChevronRight,
 } from "lucide-react";
 import "./App.css";
+import UniversalFooter from "./components/UniversalFooter";
+
+const LogoIcon = () => (
+  <svg width="42" height="42" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" className="logo-svg">
+    <defs>
+      <linearGradient id="logo-circle-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stopColor="#00c6ff" />
+        <stop offset="100%" stopColor="#003bde" />
+      </linearGradient>
+      <linearGradient id="logo-bar-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stopColor="#0055ff" />
+        <stop offset="100%" stopColor="#0a2240" />
+      </linearGradient>
+    </defs>
+    {/* Magnifying Glass Ring */}
+    <path 
+      d="M 72 65 A 32 32 0 1 0 65 72" 
+      stroke="url(#logo-circle-grad)" 
+      strokeWidth="8" 
+      strokeLinecap="round" 
+      fill="none" 
+    />
+    {/* Magnifying Glass Handle */}
+    <rect 
+      x="62" 
+      y="66" 
+      width="10" 
+      height="26" 
+      rx="5" 
+      transform="rotate(-45 62 66)" 
+      fill="#003bde" 
+    />
+    {/* Inner buildings floor (arc) */}
+    <path 
+      d="M 23 58 C 35 63, 55 63, 67 58 C 55 56, 35 56, 23 58 Z" 
+      fill="url(#logo-circle-grad)" 
+    />
+    {/* Building 1 (Left) */}
+    <path 
+      d="M 28 56 L 28 42 L 34 39 L 34 56 Z" 
+      fill="url(#logo-bar-grad)" 
+    />
+    {/* Building 2 (Middle) */}
+    <path 
+      d="M 37 56 L 37 32 L 44 29 L 44 56 Z" 
+      fill="url(#logo-bar-grad)" 
+    />
+    {/* Building 3 (Right) */}
+    <path 
+      d="M 47 56 L 47 24 L 55 21 L 55 56 Z" 
+      fill="url(#logo-bar-grad)" 
+    />
+  </svg>
+);
 
 const emptyFilters = {
   maxFees: "",
@@ -313,12 +367,13 @@ function App() {
       {/* HEADER */}
       <header className="navbar">
         <div className="logo-container">
-          <GraduationCap size={32} className="logo-icon" />
-          <h1>College Dhundo</h1>
+          <LogoIcon />
+          <div className="logo-text-wrapper">
+            <span className="khud-se-text">khud se</span>
+            <h1>College Dhundo</h1>
+          </div>
         </div>
         <nav className="nav-links">
-          <a href="#">Explore</a>
-          <a href="#">About</a>
           <a 
             href="#" 
             className="compare-link"
@@ -848,6 +903,7 @@ function App() {
         </AnimatePresence>
 
       </main>
+      <UniversalFooter />
     </div>
   );
 }
